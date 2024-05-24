@@ -5,6 +5,7 @@ To make my coding passion my profession, I completed Career Foundry's Full-Stack
 Now, I'm on the lookout for a role that values continuous learning and allows me to make meaningful contributions.
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/isabel-matula/)
+
 :computer: Want to know more? Check out my [portfolio page](https://isabelwen.github.io/portfolio-website/)
 <!--
 **IsabelWen/IsabelWen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
