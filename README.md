@@ -2,8 +2,6 @@
 I'm passionate about coding since my Bachelor's in business administration at the Free University of Berlin, where I gained initial experiences with programming languages such as Python, R, PHP, and SQL.
 To make my coding passion my profession, I completed Career Foundry's Full-Stack Web Developer program, learning JavaScript, React, TypeScript and more.
 
-Now, I'm on the lookout for a role that values continuous learning and allows me to make meaningful contributions.
-
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/isabel-matula/)
 
 :computer: Want to know more? Check out my [portfolio page](https://isabelwen.github.io/portfolio-website/)
